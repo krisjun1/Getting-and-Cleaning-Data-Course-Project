@@ -1,12 +1,12 @@
-README.md
 This project (Getting and Cleaning Data Course Project) includes the following files:
 =========================================
--'README.md'
--'CodeBook.md': 
--'run_analysis.R'
--'tidyData.txt': 
+  #-'README.md'
+  #-'CodeBook.md': 
+  #-'run_analysis.R'
+  #-'tidyData.txt': 
 
-The R-function 'run_analysis.R' works as follows:
+##The R-function 'run_analysis.R' works as follows:
+
 ##0.Get the data:
     #Create a folder 'data' if it doesn't exist already, downloads the zipped file in the "data" folder.
     #Unzip the file
